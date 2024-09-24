@@ -1,6 +1,6 @@
 # blog-post.github.io
 <h1 align="center">Hi, I'm Sean 👋👨🏼‍💻</h1>
-<img align="right" alt="also me" width="400" height="300" src="https://i.redd.it/qovk2zquvr151.gif">
+<img align="right" alt="also me" width="300" height="200" src="https://i.redd.it/qovk2zquvr151.gif">
 
 <h3>About Me</h3>
 <p align="left">- 👩🏻‍💻 I’m currently learning <strong>Python</strong>.</p>
